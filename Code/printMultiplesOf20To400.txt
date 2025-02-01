@@ -1,4 +1,4 @@
-function printMultiplesOf20To80() {
+function printMultiplesOf20To400() {
     for (let i = 20; i <= 400; i += 20) {
         console.log(i);
     }
